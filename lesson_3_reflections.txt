@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
 - Branches are used to create different ways or paths in a Repository
 - Forks + Clones if i want to do something with an Repository but don't really want to push the data back to it
 - Branches for example if i want to create some experimental features or something
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- Even if you have no internet connection you can check if there are merge conflicts when you try to push you changes to the remote
