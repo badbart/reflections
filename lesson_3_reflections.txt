@@ -21,3 +21,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 - Via E-Mail, Network or USB Stick. It would be probably easier, especialy in a Network, to get the Data to other People. Just copy it, done.
 - It would be pretty hard to work on same or simillar things at the same time
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+- Pretty nuch the same as offline, creating something experimental or something that will need some time to get it finished
